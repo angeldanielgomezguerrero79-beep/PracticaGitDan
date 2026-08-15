@@ -3,5 +3,10 @@
 void main() {
 
     System.out.println("HOLA COMPAÑEROS ¿COMO ESTAN?");
+    System.out.println("HOLA COMPAÑEROS ¿COMO ESTAN?");
+    System.out.println("HOLA COMPAÑEROS ¿COMO ESTAN?");
+    System.out.println("HOLA COMPAÑEROS ¿COMO ESTAN?");
+    System.out.println("HOLA COMPAÑEROS ¿COMO ESTAN?");
+
     }
 }
